@@ -4,7 +4,7 @@ Machine learning classification project to predict the stage of liver cirrhosis 
 ---
 
 ## Overview
-This project was developed for the **Machine Learning** course (4th semester) as part of the individual final exam. The objective is to predict the stage of liver cirrhosis using structured medical records.  
+This project was developed for the **Machine Learning** course as part of the individual final exam. The objective is to predict the stage of liver cirrhosis using structured medical records.  
 
 The workflow includes:
 - Exploratory Data Analysis (EDA) to identify anomalies, trends, and relationships between features and cirrhosis stages
