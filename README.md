@@ -19,7 +19,7 @@ The workflow includes:
 - **Presentation slides (PPT)** – summarizing key findings, methodology, and results
 ---
 
-## 📊 Data
+## Data
 
 The dataset contains anonymized liver cirrhosis patient records, including demographics, lab results, and medical history.
 
@@ -45,7 +45,7 @@ The dataset contains anonymized liver cirrhosis patient records, including demog
 
 ---
 
-## 🚀 Features
+## Features
 - **Data Cleaning**
   - Anomaly correction (e.g., negative triglycerides replaced with absolute values)
   - Removal of unreliable features with excessive missing values (e.g., Cholesterol)
@@ -72,7 +72,7 @@ The dataset contains anonymized liver cirrhosis patient records, including demog
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python** – data preprocessing, analysis, and modeling
 - **Pandas / NumPy** – data manipulation
 - **Matplotlib / Seaborn** – data visualization
